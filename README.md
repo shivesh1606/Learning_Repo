@@ -25,8 +25,8 @@
 -   [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repo to your local machine.
 -   Create a new branch.
 -   Create a **cpp** or **python** solution for palindrome check of a number and save that file by `yourName_palindrome.py` or `yourName_palindrome.cpp` inside the directory named **docs**.
--   Now check for `git status`, Hope you will not find your save file, suprised?? , try looking About GitIgnore.
--   Do whatever Needed, push that file inside docs folder to your forked repo under new branch name.
+-   Now check for `git status`. You will not find your save file, suprised?? try looking about GitIgnore.
+-   Do whatever needed, push that file inside docs folder to your forked repo under new branch name.
 
 ### Those who know the short-cut apply, but you guys have to create a .md file inside docs folder only so that your friends and me also know how much cool git is.
 
